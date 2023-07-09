@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">bootombarpractice</string>
+    <string name="security">Security</string>
+    <string name="sos">SOS</string>
+    <string name="textsosguard">In case of emergency keep telling family numbers to contact me</string>
+    <string name="MyFamily">My Family</string>
+    <string name="calculate">Calculate</string>
+    <string name="openLink">OpenLink</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Avenegrs">Avengers</string>
+</resources>
